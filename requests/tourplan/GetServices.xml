@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE Request SYSTEM "hostConnect_3_10_000.dtd">
+<Request>
+    <GetServicesRequest>
+    <AgentID>AATRAV</AgentID>
+    <Password>AATRAV</Password>
+    </GetServicesRequest>
+</Request>

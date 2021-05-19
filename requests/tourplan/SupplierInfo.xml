@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE Request SYSTEM "hostConnect_3_10_000.dtd">
+<Request>
+     <SupplierInfoRequest>
+        <AgentID>AATRAV</AgentID>
+        <Password>AATRAV</Password>
+        <SupplierId>1</SupplierId>
+    </SupplierInfoRequest>
+</Request>
