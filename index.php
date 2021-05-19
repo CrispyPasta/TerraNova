@@ -12,6 +12,7 @@ $url = "http://demo2.tourplan.com:8080/iCom310/servlet/conn";
 // echo(curlPost(file_get_contents("./requests/GetServices.xml")));
 // echo(curlPost(file_get_contents("./requests/GetLocation.xml")));
 
-echo(curlGet("https://wetu.com/API/Pins/4PLEDRIUFRIAMOAM/Get?ids=713"));
+// echo(curlGet("https://wetu.com/API/Pins/4PLEDRIUFRIAMOAM/Get?ids=713"));
+echo(curlGet("https://wetu.com/Admin/Operators/Suppliers?id=2297&totalRecordsLoaded=0&recordsPerPage=100&searchName=&searchDestination="));
 
 ?>
