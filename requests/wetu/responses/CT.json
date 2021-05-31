@@ -1,0 +1,58 @@
+[
+    {
+        "features": {
+            "spoken_languages": [],
+            "facilities": [],
+            "suggested_visitor_types": [],
+            "weather_requirement": [],
+            "special_interests": []
+        },
+        "options": [],
+        "map_object_id": 700,
+        "name": "Noordhoek Horses",
+        "status": "Unmanaged",
+        "last_modified": "2012-08-17T14:26:44.81",
+        "type": "Activity",
+        "category": "Outdoor",
+        "subcategory": "Horse Riding",
+        "position": {
+            "destination_content_entity_id": 8007,
+            "country_content_entity_id": 675,
+            "latitude": -34.10041237796711,
+            "longitude": 18.356094360351523,
+            "driving_latitude": -34.10041237796711,
+            "driving_longitude": 18.356094360351523,
+            "country": "South Africa",
+            "region": "Western Cape",
+            "area": "Noordhoek",
+            "location": "De Goede Hoop",
+            "destination": "Cape Peninsula"
+        },
+        "content": {
+            "general_description": "<p>Cape Town’s beautiful surroundings can be explored in a variety of ways and horse riding is a popular option. Cape Town is home to many little farms and horse stables. Noordhoek’s long, flat beach makes for excellent horse riding and there are few better ways to spend a sunny day or view a sunset than galloping alongside the waves. There are several riding schools around town through which rides can be arranged.</p>",
+            "contact_information": {},
+            "images": [
+                {
+                    "url": "https://wetu.com/Resources/700/AA_Noordhoek - HorseRiding 5.jpg",
+                    "url_fragment": "700/AA_Noordhoek - HorseRiding 5.jpg",
+                    "width": 1600,
+                    "height": 1068,
+                    "size": 1507217
+                },
+                {
+                    "url": "https://wetu.com/Resources/700/AA_Noordhoek - HorseRiding.jpg",
+                    "url_fragment": "700/AA_Noordhoek - HorseRiding.jpg",
+                    "width": 1600,
+                    "height": 1155,
+                    "size": 1182975
+                }
+            ],
+            "youtube_videos": [],
+            "panoramas": []
+        },
+        "documentation": [],
+        "specials": [],
+        "content_rating": 14,
+        "classification": {}
+    }
+]

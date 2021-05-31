@@ -1,0 +1,56 @@
+[
+    {
+        "id": 64,
+        "name": "Sun City Cascades Hotel",
+        "type": "Accommodation",
+        "last_modified": "2019-02-28T09:17:35.573"
+    },
+    {
+        "id": 65,
+        "name": "The Palace of the Lost City",
+        "type": "Accommodation",
+        "last_modified": "2019-12-04T08:03:40.93"
+    },
+    {
+        "id": 67,
+        "name": "Soho Hotel",
+        "type": "Accommodation",
+        "last_modified": "2019-12-04T08:33:38.437"
+    },
+    {
+        "id": 68,
+        "name": "Sun City Cabanas Hotel",
+        "type": "Accommodation",
+        "last_modified": "2019-12-04T08:27:18.033"
+    },
+    {
+        "id": 225,
+        "name": "Twelve Apostles Hotel & Spa",
+        "type": "Accommodation",
+        "last_modified": "2021-04-22T15:39:29.653"
+    },
+    {
+        "id": 412,
+        "name": "Palmiet Camp Site",
+        "type": "Accommodation",
+        "last_modified": "2014-06-19T11:43:59.383"
+    },
+    {
+        "id": 576,
+        "name": "Malelane Satellite Camp",
+        "type": "Accommodation",
+        "last_modified": "2018-12-13T12:54:01.69"
+    },
+    {
+        "id": 578,
+        "name": "Berg-en-Dal Main Camp",
+        "type": "Accommodation",
+        "last_modified": "2020-02-19T05:27:47.647"
+    },
+    {
+        "id": 580,
+        "name": "Pretoriuskop Rest Camp",
+        "type": "Accommodation",
+        "last_modified": "2020-02-19T05:21:17.523"
+    }
+]

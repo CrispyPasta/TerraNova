@@ -1,0 +1,61 @@
+{
+    "itineraries": [
+        {
+            "type": "Sample",
+            "identifier": "B110E855-9CCA-3855-E0D1-E87E5F36D25B",
+            "identifier_key": "RQM5XD",
+            "days": 5,
+            "name": "test",
+            "reference_number": "",
+            "client_name": "",
+            "last_modified": "2014-01-31T13:36:24.0424735Z",
+            "access_count": 0,
+            "is_disabled": false,
+            "booking_status": "None",
+            "operator_id": 2297
+        },
+        {
+            "type": "Sample",
+            "identifier": "EA991E36-1FF7-C0C6-D827-0BC01675BBF3",
+            "identifier_key": "TCN7WZ",
+            "days": 2,
+            "name": "Kaufmann",
+            "reference_number": "007",
+            "client_name": "",
+            "last_modified": "2014-02-10T13:47:41.2239874Z",
+            "access_count": 0,
+            "is_disabled": false,
+            "booking_status": "None",
+            "operator_id": 2297
+        },
+        {
+            "type": "Sample",
+            "identifier": "92113C04-6609-DA1C-9D69-1FD38FBD1BE1",
+            "identifier_key": "2O4QPF",
+            "days": 14,
+            "name": "FIT Schoelzel",
+            "reference_number": "",
+            "client_name": "",
+            "last_modified": "2014-02-11T07:30:38.3824127Z",
+            "access_count": 0,
+            "is_disabled": false,
+            "booking_status": "None",
+            "operator_id": 2297
+        },
+        {
+            "type": "Sample",
+            "identifier": "B786C954-9D9A-B54E-ADD8-2F4F1DBC8C4D",
+            "identifier_key": "LL8I7Z",
+            "days": 5,
+            "name": "Sample Namibia",
+            "reference_number": "1",
+            "client_name": "",
+            "last_modified": "2014-02-14T07:41:34.1886409Z",
+            "access_count": 0,
+            "is_disabled": false,
+            "booking_status": "None",
+            "operator_id": 2297
+        }
+    ],
+    "total_results": 704
+}

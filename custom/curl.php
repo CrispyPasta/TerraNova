@@ -40,7 +40,8 @@ function curlGet($url){
         "Accept: text/xml",
         "Cache-Control: no-cache",
         "Pragma: no-cache",
-        "SOAPAction: \"run\""
+        "SOAPAction: \"run\"",
+        'Cookie: .WETUAUTH=3B513CE8DA5C53764F278BCEA2031626D36FA7D75648CD102CF1CA1A6BB54B308108D3893F74F815A6E60DF69FEBD09454CA9B72147FDA435BDD87D3400A7004BF6EF07BFDB3E5E9F3FAC64E0C87301AF707EC0C0D10F6118CCACB0290870831948A316EFA83C9BEBEDE654145893577977A27AD72F0BC06223B2E6A6EB0323780F3081E5FD8F77939B9BE3829F1F91B6EB78E64B7A16B06F2B70D6340BA4C7D'
     );
 
     $ch = curl_init();  //curl object
@@ -51,6 +52,9 @@ function curlGet($url){
     curl_setopt($ch, CURLOPT_URL, $url);                //sets the url to fetch
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);        //true makes the transfer be returned as a string instead of outputting it directly 
     curl_setopt($ch, CURLOPT_TIMEOUT, 60);              //sets the max time that a curl function may execute for
+    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
+    curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+    curl_setopt($ch, CURLOPT_MAXREDIRS, 10);
     // curl_setopt($ch, CURLOPT_POST, true);               //this makes libcurl do a regular HTTP post. It also makes the library use the header in the next line
     curl_setopt($ch, CURLOPT_HTTPHEADER, $curlHeaders); //this sets an array of header fields
     // curl_setopt($ch, CURLOPT_POSTFIELDS, $xmldata);     //the data that should be POSTed

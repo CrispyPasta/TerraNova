@@ -1,0 +1,432 @@
+[
+    {
+        "features": {
+            "star_authority": "Unspecified",
+            "stars": 4,
+            "spoken_languages": [],
+            "special_interests": [],
+            "suggested_visitor_types": [],
+            "property_facilities": [],
+            "room_facilities": [],
+            "available_services": [],
+            "activities_on_site": [],
+            "activities_off_site": []
+        },
+        "rooms": [
+            {
+                "per_person_sharing_rates": [],
+                "single_rates": [],
+                "room_rates": [],
+                "affiliate_code": "1",
+                "id": "35818",
+                "name": "Honeymoon Room",
+                "description": "<p>Our Honeymoon room is stunning, with a patio leading out into the garden.  The room is spacious, air-conditioned with an extra length king size bed, en-suite bathroom with a shower and spa bath, safe, TV, small fridge, hospitality tray &amp; hair dryer.</p>",
+                "images": [
+                    {
+                        "url": "https://wetu.com/Resources/10876/HoneyAA.jpg",
+                        "url_fragment": "10876/HoneyAA.jpg",
+                        "width": 200,
+                        "height": 180,
+                        "size": 10490
+                    }
+                ]
+            },
+            {
+                "per_person_sharing_rates": [],
+                "single_rates": [],
+                "room_rates": [],
+                "affiliate_code": "2",
+                "id": "35819",
+                "name": "Luxury Room ",
+                "description": "<p>On the ground floor with a patio. The rooms are air-condiotioned, have an extra length king size bed which can be split to 2 single beds. There is a sleeper couch in each room, en-suite bathroom with a shower, hospitality tray, safe and hairdryer.</p>",
+                "images": [
+                    {
+                        "url": "https://wetu.com/Resources/10876/LuxAA.jpg",
+                        "url_fragment": "10876/LuxAA.jpg",
+                        "width": 200,
+                        "height": 170,
+                        "size": 9378
+                    }
+                ]
+            },
+            {
+                "per_person_sharing_rates": [],
+                "single_rates": [],
+                "room_rates": [],
+                "affiliate_code": "3",
+                "id": "35820",
+                "name": "Double Room",
+                "description": "<p>Situated on the first floor. The rooms are air-conditioned, have a Standard Double bed, en-suite bathroom with shower, hospitality tray, safe and hair dryer.</p>",
+                "images": [
+                    {
+                        "url": "https://wetu.com/Resources/10876/DoubleAA.jpg",
+                        "url_fragment": "10876/DoubleAA.jpg",
+                        "width": 200,
+                        "height": 180,
+                        "size": 9891
+                    }
+                ]
+            },
+            {
+                "per_person_sharing_rates": [],
+                "single_rates": [],
+                "room_rates": [],
+                "affiliate_code": "4",
+                "id": "35821",
+                "name": "Family Room",
+                "description": "<p>Situated on the first floor overlooking the garden and swimming pool.  The room is air-conditioned with a king size bed  and two single beds. There is a bath and shower en-suite, hospitality tray, safe and hair dryer.</p>",
+                "images": [
+                    {
+                        "url": "https://wetu.com/Resources/10876/FamilyAA.jpg",
+                        "url_fragment": "10876/FamilyAA.jpg",
+                        "width": 200,
+                        "height": 180,
+                        "size": 13206
+                    }
+                ]
+            }
+        ],
+        "units": [],
+        "activities": [],
+        "restaurants": [],
+        "map_object_id": 10876,
+        "name": "African Ambience",
+        "status": "Unmanaged",
+        "last_modified": "2019-04-24T08:36:25.357",
+        "type": "Accommodation",
+        "category": "Bed & Breakfast",
+        "position": {
+            "destination_content_entity_id": 1116,
+            "country_content_entity_id": 675,
+            "latitude": -28.381161764228903,
+            "longitude": 32.412028372287743,
+            "driving_latitude": -28.381161764228903,
+            "driving_longitude": 32.412028372287743,
+            "country": "South Africa",
+            "region": "KwaZulu-Natal",
+            "area": "St Lucia",
+            "location": "St Lucia",
+            "destination": "St Lucia"
+        },
+        "content": {
+            "general_description": "<p>Three very spacious, comfortable luxury rooms Honeymoon suite with private entrance, patio, garden view, safe, spa bath, TV and fridge Two double rooms A family room</p>",
+            "extended_description": "<p>Three very spacious, comfortable luxury rooms Honeymoon suite with private entrance, patio, garden view, safe, spa bath, TV and fridge Two double rooms A family room</p>",
+            "contact_information": {
+                "email": "lejon@digitalsky.co.za",
+                "telephone": "035 5901212",
+                "website_url": "http://www.africanambience.com",
+                "bookings_url": "https://www.nightsbridge.co.za/bridge/book?bbid=17774",
+                "address": "124 Pelican Street,\r\nSt. Lucia",
+                "mobile_bookings_url": "https://www.nightsbridge.co.za/bridge/book3?bbid=17774",
+                "front_desk_telephone": "+27 35 590 1212"
+            },
+            "images": [
+                {
+                    "url": "https://wetu.com/Resources/10876/img_20190324_120657.jpg",
+                    "url_fragment": "10876/img_20190324_120657.jpg",
+                    "description": "Swimming pool",
+                    "width": 4208,
+                    "height": 3120,
+                    "size": 6020107
+                },
+                {
+                    "url": "https://wetu.com/Resources/Operators/2297/african-ambience-guest.jpg",
+                    "url_fragment": "Operators/2297/african-ambience-guest.jpg",
+                    "width": 1420,
+                    "height": 946,
+                    "size": 235837
+                },
+                {
+                    "url": "https://wetu.com/Resources/10876/img_20190326_150212.jpg",
+                    "url_fragment": "10876/img_20190326_150212.jpg",
+                    "description": "Swimming Pool Area",
+                    "width": 4208,
+                    "height": 3120,
+                    "size": 6382834
+                },
+                {
+                    "url": "https://wetu.com/Resources/10876/20190324_080942.jpg",
+                    "url_fragment": "10876/20190324_080942.jpg",
+                    "description": "Luxury Dubble Room",
+                    "width": 4032,
+                    "height": 1960,
+                    "size": 2676524
+                },
+                {
+                    "url": "https://wetu.com/Resources/10876/20190324_075822.jpg",
+                    "url_fragment": "10876/20190324_075822.jpg",
+                    "description": "African Ambience",
+                    "width": 4032,
+                    "height": 1960,
+                    "size": 4316898
+                },
+                {
+                    "url": "https://wetu.com/Resources/10876/20190324_083059.jpg",
+                    "url_fragment": "10876/20190324_083059.jpg",
+                    "description": "View from Family Room",
+                    "width": 4032,
+                    "height": 1960,
+                    "size": 4556606
+                }
+            ],
+            "youtube_videos": [],
+            "panoramas": []
+        },
+        "documentation": [],
+        "specials": [],
+        "affiliate_name": "Nightsbridge",
+        "affiliate_code": "17774",
+        "content_rating": 34,
+        "classification": {}
+    },
+    {
+        "features": {
+            "spoken_languages": [],
+            "special_interests": [],
+            "suggested_visitor_types": [],
+            "property_facilities": [
+                "Barbeque Facilities",
+                "Pool",
+                "Secure Parking",
+                "TV Room"
+            ],
+            "room_facilities": [
+                "Air Conditioning",
+                "Complimentary Wi-Fi",
+                "En-Suite",
+                "Fridge",
+                "Hair Dryer",
+                "Mini Bar",
+                "Safe",
+                "Shower",
+                "Tea / Coffee",
+                "Television"
+            ],
+            "available_services": [],
+            "activities_on_site": [],
+            "activities_off_site": [
+                "Beach",
+                "Big 5",
+                "Bird Watching",
+                "Boat Cruises",
+                "Bowls",
+                "Cultural Tours",
+                "Cycling",
+                "Deep Sea Fishing",
+                "Fishing",
+                "Fly Fishing",
+                "Game Drives",
+                "Game Viewing",
+                "Game Walks",
+                "General Sightseeing",
+                "Golf",
+                "Hiking",
+                "Horse Riding",
+                "Horse-back Safaris",
+                "Massages",
+                "Safaris",
+                "Snorkeling",
+                "Turtle Tracking",
+                "Walks (Guided)",
+                "Walks (Self Guided)",
+                "Whale Watching",
+                "Wildlife Tours"
+            ]
+        },
+        "rooms": [
+            {
+                "per_person_sharing_rates": [],
+                "single_rates": [],
+                "room_rates": [],
+                "affiliate_code": "1",
+                "id": "35823",
+                "name": "Luxury King Bed Room 2",
+                "description": "<p>Luxury King Bed Room 2 with a king-size bed, air-conditioning, hairdryer, safe, hospitality tray, en-suite bathroom with a shower.</p>",
+                "images": [
+                    {
+                        "url": "https://wetu.com/Resources/43154/20180531_130617.jpg",
+                        "url_fragment": "43154/20180531_130617.jpg",
+                        "width": 4128,
+                        "height": 3096,
+                        "size": 4187940
+                    },
+                    {
+                        "url": "https://wetu.com/Resources/43154/img_8865.jpg",
+                        "url_fragment": "43154/img_8865.jpg",
+                        "width": 6000,
+                        "height": 4000,
+                        "size": 4136502
+                    },
+                    {
+                        "url": "https://wetu.com/Resources/43154/img_8863.jpg",
+                        "url_fragment": "43154/img_8863.jpg",
+                        "width": 6000,
+                        "height": 4000,
+                        "size": 5101300
+                    },
+                    {
+                        "url": "https://wetu.com/Resources/43154/img_8864.jpg",
+                        "url_fragment": "43154/img_8864.jpg",
+                        "width": 6000,
+                        "height": 4000,
+                        "size": 5428328
+                    },
+                    {
+                        "url": "https://wetu.com/Resources/43154/img_8879.jpg",
+                        "url_fragment": "43154/img_8879.jpg",
+                        "width": 6000,
+                        "height": 4000,
+                        "size": 5867170
+                    }
+                ]
+            },
+            {
+                "per_person_sharing_rates": [],
+                "single_rates": [],
+                "room_rates": [],
+                "affiliate_code": "7",
+                "id": "128717",
+                "name": "Luxury King/Twin Room with patio",
+                "description": "<p>Luxury King/Twin Room offers either an extra-length king-size bed or twin beds, air-conditioning, hairdryer, safe, hospitality tray, en-suite bathroom with a shower. Small patio.</p>",
+                "images": [
+                    {
+                        "url": "https://wetu.com/Resources/43154/img-20180708-wa0012.jpg",
+                        "url_fragment": "43154/img-20180708-wa0012.jpg",
+                        "width": 1032,
+                        "height": 581,
+                        "size": 41382
+                    },
+                    {
+                        "url": "https://wetu.com/Resources/43154/img_3948.jpg",
+                        "url_fragment": "43154/img_3948.jpg",
+                        "width": 6000,
+                        "height": 4000,
+                        "size": 3269254
+                    },
+                    {
+                        "url": "https://wetu.com/Resources/43154/img_3949.jpg",
+                        "url_fragment": "43154/img_3949.jpg",
+                        "width": 6000,
+                        "height": 4000,
+                        "size": 4521219
+                    },
+                    {
+                        "url": "https://wetu.com/Resources/43154/20180531_130912_-_copy.jpg",
+                        "url_fragment": "43154/20180531_130912_-_copy.jpg",
+                        "width": 4128,
+                        "height": 3096,
+                        "size": 3501018
+                    }
+                ]
+            },
+            {
+                "per_person_sharing_rates": [],
+                "single_rates": [],
+                "room_rates": [],
+                "affiliate_code": "2",
+                "id": "134215",
+                "name": "Luxury King/Twin Room",
+                "description": "<p>Luxury King/Twin Room offers either an extra-length king-size bed or twin beds, air-conditioning, hairdryer, safe, hospitality tray, en-suite bathroom with a shower.</p>",
+                "images": []
+            },
+            {
+                "per_person_sharing_rates": [],
+                "single_rates": [],
+                "room_rates": [],
+                "affiliate_code": "4",
+                "id": "134216",
+                "name": "Standard Room 6",
+                "description": "<p>Standard Room 6 offers a Double bed, air-conditioning, hairdryer, safe, hospitality tray, en-suite bathroom with a shower. No Patio.</p>",
+                "images": []
+            }
+        ],
+        "units": [],
+        "activities": [],
+        "restaurants": [],
+        "map_object_id": 43154,
+        "name": "African Dreamz",
+        "status": "Unmanaged",
+        "last_modified": "2020-07-15T10:00:46.64",
+        "type": "Accommodation",
+        "category": "Guest House",
+        "position": {
+            "destination_content_entity_id": 1116,
+            "country_content_entity_id": 675,
+            "latitude": -28.378128238995458,
+            "longitude": 32.416571930688463,
+            "driving_latitude": -28.378128238995458,
+            "driving_longitude": 32.416571930688463,
+            "country": "South Africa",
+            "region": "KwaZulu-Natal",
+            "area": "Saint Lucia",
+            "location": "Saint Lucia",
+            "destination": "St Lucia"
+        },
+        "content": {
+            "general_description": "<p>The guesthouse, which offers luxury bed and breakfast accommodation, has been styled to create a relaxing ethnic ambience.</p>",
+            "contact_information": {
+                "email": "africandreamz@telkomsa.net",
+                "telephone": "+27-35-5901142",
+                "skype": "Tessa Bester",
+                "bookings_url": "https://www.nightsbridge.co.za/bridge/book?bbid=30701",
+                "address": "66 Kingfisher Street\n\nSt Lucia\n\n3936",
+                "mobile_bookings_url": "https://www.nightsbridge.co.za/bridge/book3?bbid=30701",
+                "front_desk_telephone": "+27 35 590 1142"
+            },
+            "images": [
+                {
+                    "url": "https://wetu.com/Resources/43154/POOLad.jpg",
+                    "url_fragment": "43154/POOLad.jpg",
+                    "description": "The swimming pool",
+                    "width": 499,
+                    "height": 268,
+                    "size": 41603
+                },
+                {
+                    "url": "https://wetu.com/Resources/43154/AD.jpg",
+                    "url_fragment": "43154/AD.jpg",
+                    "description": "African-Dreamz",
+                    "width": 603,
+                    "height": 374,
+                    "size": 89058
+                },
+                {
+                    "url": "https://wetu.com/Resources/43154/img_8848.jpg",
+                    "url_fragment": "43154/img_8848.jpg",
+                    "width": 6000,
+                    "height": 4000,
+                    "size": 5779471
+                },
+                {
+                    "url": "https://wetu.com/Resources/43154/img_8846.jpg",
+                    "url_fragment": "43154/img_8846.jpg",
+                    "width": 6000,
+                    "height": 4000,
+                    "size": 5578885
+                },
+                {
+                    "url": "https://wetu.com/Resources/43154/img_8850.jpg",
+                    "url_fragment": "43154/img_8850.jpg",
+                    "width": 6000,
+                    "height": 4000,
+                    "size": 5566439
+                },
+                {
+                    "url": "https://wetu.com/Resources/43154/img_8854.jpg",
+                    "url_fragment": "43154/img_8854.jpg",
+                    "width": 6000,
+                    "height": 4000,
+                    "size": 4696488
+                }
+            ],
+            "youtube_videos": [],
+            "panoramas": []
+        },
+        "documentation": [],
+        "specials": [],
+        "affiliate_name": "Nightsbridge",
+        "affiliate_code": "30701",
+        "content_rating": 28,
+        "classification": {}
+    }
+]

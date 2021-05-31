@@ -1,0 +1,33 @@
+[
+    {
+        "map_object_id": 713,
+        "name": "Eastern Cape",
+        "status": "Unmanaged",
+        "last_modified": "2017-12-12T12:54:47.907",
+        "type": "Destination",
+        "position": {
+            "destination_content_entity_id": 713,
+            "country_content_entity_id": 675,
+            "latitude": -33.7060626551012,
+            "longitude": 26.202392578125,
+            "driving_latitude": -33.7060626551012,
+            "driving_longitude": 26.202392578125,
+            "country": "South Africa",
+            "region": "Eastern Cape",
+            "area": "Eastern Cape",
+            "destination": "Eastern Cape"
+        },
+        "content": {
+            "general_description": "<p>The Eastern Cape is renowned for its history, its beaches and more recently its great wildlife viewing opportunities.</p>",
+            "extended_description": "<p>The Eastern Cape is renowned for its history, its beaches and more recently its great wildlife viewing opportunities.</p>",
+            "contact_information": {},
+            "images": [],
+            "youtube_videos": [],
+            "panoramas": []
+        },
+        "documentation": [],
+        "specials": [],
+        "content_rating": 40,
+        "classification": {}
+    }
+]
