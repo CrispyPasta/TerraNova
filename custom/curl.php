@@ -51,7 +51,7 @@ function curlGet($url){
 
     curl_setopt($ch, CURLOPT_URL, $url);                //sets the url to fetch
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);        //true makes the transfer be returned as a string instead of outputting it directly 
-    curl_setopt($ch, CURLOPT_TIMEOUT, 60);              //sets the max time that a curl function may execute for
+    curl_setopt($ch, CURLOPT_TIMEOUT, 1000);              //sets the max time that a curl function may execute for
     curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
     curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
     curl_setopt($ch, CURLOPT_MAXREDIRS, 10);
