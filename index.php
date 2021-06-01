@@ -11,5 +11,5 @@ $url = "http://demo2.tourplan.com:8080/iCom310/servlet/conn";
 
 // $arr = itineraryList_wetu();
 backupItineraries_wetu();
-
+backupPins_wetu();
 ?>
